@@ -7,4 +7,6 @@ export default defineConfig({
   ],
   npmClient: 'tnpm',
   mfsu: false,
+  routePrefetch: {},
+  manifest: {},
 });
